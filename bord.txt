@@ -1,0 +1,2 @@
+名前:test	メッセージ:test
+名前:aaa	メッセージ:aaaaa
